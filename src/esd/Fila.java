@@ -2,7 +2,7 @@ package esd;
 
 public class Fila <T> {
 
-    public Fila() {
+    public Fila(int capacity) {
     }
 
     public int comprimento() {
